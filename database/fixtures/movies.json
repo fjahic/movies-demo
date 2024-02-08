@@ -1,0 +1,426 @@
+[
+    {
+        "genres": [
+            "Drama",
+            "Crime"
+        ],
+        "storyline": "Framed in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+        "release_year": "1994",
+        "title": "The Shawshank Redemption",
+        "director": "Frank Darabont"
+    },
+    {
+        "genres": [
+            "Drama",
+            "Crime"
+        ],
+        "storyline": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+        "release_year": "1972",
+        "title": "The Godfather",
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "genres": [
+            "Drama",
+            "Crime"
+        ],
+        "storyline": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
+        "release_year": "1974",
+        "title": "The Godfather Part II",
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "genres": [
+            "Drama",
+            "History",
+            "War"
+        ],
+        "storyline": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+        "release_year": "1993",
+        "title": "Schindler's List",
+        "director": "Steven Spielberg"
+    },
+    {
+        "genres": [
+            "Drama"
+        ],
+        "storyline": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.",
+        "release_year": "1957",
+        "title": "12 Angry Men",
+        "director": "Sidney Lumet"
+    },
+    {
+        "genres": [
+            "Animation",
+            "Family",
+            "Fantasy"
+        ],
+        "storyline": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+        "release_year": "2001",
+        "title": "Spirited Away",
+        "director": "Hayao Miyazaki"
+    },
+    {
+        "genres": [
+            "Drama",
+            "Action",
+            "Crime",
+            "Thriller"
+        ],
+        "storyline": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+        "release_year": "2008",
+        "title": "The Dark Knight",
+        "director": "Christopher Nolan"
+    },
+    {
+        "genres": [
+            "Comedy",
+            "Thriller",
+            "Drama"
+        ],
+        "storyline": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+        "release_year": "2019",
+        "title": "Parasite",
+        "director": "Bong Joon Ho"
+    },
+    {
+        "genres": [
+            "Fantasy",
+            "Drama",
+            "Crime"
+        ],
+        "storyline": "A supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cell block's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution.",
+        "release_year": "1999",
+        "title": "The Green Mile",
+        "director": "Frank Darabont"
+    },
+    {
+        "genres": [
+            "Thriller",
+            "Crime"
+        ],
+        "storyline": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+        "release_year": "1994",
+        "title": "Pulp Fiction",
+        "director": "Quentin Tarantino"
+    },
+    {
+        "genres": [
+            "Adventure",
+            "Fantasy",
+            "Action"
+        ],
+        "storyline": "Aragorn is revealed as the heir to the ancient kings as he, Gandalf and the other members of the broken fellowship struggle to save Gondor from Sauron's forces. Meanwhile, Frodo and Sam take the ring closer to the heart of Mordor, the dark lord's realm.",
+        "release_year": "2003",
+        "title": "The Lord of the Rings: The Return of the King",
+        "director": "Peter Jackson"
+    },
+    {
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "storyline": "A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+        "release_year": "1994",
+        "title": "Forrest Gump",
+        "director": "Robert Zemeckis"
+    },
+    {
+        "genres": [
+            "Western"
+        ],
+        "storyline": "While the Civil War rages on between the Union and the Confederacy, three men – a quiet loner, a ruthless hitman, and a Mexican bandit – comb the American Southwest in search of a strongbox containing $200,000 in stolen gold.",
+        "release_year": "1966",
+        "title": "The Good, the Bad and the Ugly",
+        "director": "Sergio Leone"
+    },
+    {
+        "genres": [
+            "Drama",
+            "Crime"
+        ],
+        "storyline": "The true story of Henry Hill, a half-Irish, half-Sicilian Brooklyn kid who is adopted by neighbourhood gangsters at an early age and climbs the ranks of a Mafia family under the guidance of Jimmy Conway.",
+        "release_year": "1990",
+        "title": "GoodFellas",
+        "director": "Martin Scorsese"
+    },
+    {
+        "genres": [
+            "Action",
+            "Drama"
+        ],
+        "storyline": "A samurai answers a village's request for protection after he falls on hard times. The town needs protection from bandits, so the samurai gathers six others to help him teach the people how to defend themselves, and the villagers provide the soldiers with food.",
+        "release_year": "1954",
+        "title": "Seven Samurai",
+        "director": "Akira Kurosawa"
+    },
+    {
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "storyline": "A touching story of an Italian book seller of Jewish ancestry who lives in his own little fairy tale. His creative and happy life would come to an abrupt halt when his entire family is deported to a concentration camp during World War II. While locked up he tries to convince his son that the whole thing is just a game.",
+        "release_year": "1997",
+        "title": "Life Is Beautiful",
+        "director": "Roberto Benigni"
+    },
+    {
+        "genres": [
+            "Drama"
+        ],
+        "storyline": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
+        "release_year": "1999",
+        "title": "Fight Club",
+        "director": "David Fincher"
+    },
+    {
+        "genres": [
+            "Drama",
+            "Crime"
+        ],
+        "storyline": "In the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other a kingpin.",
+        "release_year": "2002",
+        "title": "City of God",
+        "director": "Fernando Meirelles"
+    },
+    {
+        "genres": [
+            "Horror",
+            "Thriller",
+            "Mystery"
+        ],
+        "storyline": "When larcenous real estate clerk Marion Crane goes on the lam with a wad of cash and hopes of starting a new life, she ends up at the notorious Bates Motel, where manager Norman Bates cares for his housebound mother.",
+        "release_year": "1960",
+        "title": "Psycho",
+        "director": "Alfred Hitchcock"
+    },
+    {
+        "genres": [
+            "Adventure",
+            "Drama",
+            "Science Fiction"
+        ],
+        "storyline": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+        "release_year": "2014",
+        "title": "Interstellar",
+        "director": "Christopher Nolan"
+    },
+    {
+        "genres": [
+            "Drama",
+            "Crime"
+        ],
+        "storyline": "A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan over thirty years later, where he once again must confront the ghosts and regrets of his old life.",
+        "release_year": "1984",
+        "title": "Once Upon a Time in America",
+        "director": "Sergio Leone"
+    },
+    {
+        "genres": [
+            "Drama"
+        ],
+        "storyline": "A petty criminal fakes insanity to serve his sentence in a mental ward rather than prison. He soon finds himself as a leader to the other patients—and an enemy to the cruel, domineering nurse who runs the ward.",
+        "release_year": "1975",
+        "title": "One Flew Over the Cuckoo's Nest",
+        "director": "Milos Forman"
+    },
+    {
+        "genres": [
+            "Adventure",
+            "Fantasy",
+            "Action"
+        ],
+        "storyline": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.",
+        "release_year": "2001",
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "director": "Peter Jackson"
+    },
+    {
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Fantasy"
+        ],
+        "storyline": "The lively João Grilo and the sly Chicó are poor guys living in the hinterland who cheat a bunch of people in a small in Northeastern Brazil. When they die, they have to be judged by Christ, the Devil and the Virgin Mary before they are admitted to paradise.",
+        "release_year": "2000",
+        "title": "A Dog's Will",
+        "director": "Guel Arraes"
+    },
+    {
+        "genres": [
+            "Adventure",
+            "Action",
+            "Science Fiction"
+        ],
+        "storyline": "The epic saga continues as Luke Skywalker, in hopes of defeating the evil Galactic Empire, learns the ways of the Jedi from aging master Yoda. But Darth Vader is more determined than ever to capture Luke. Meanwhile, rebel leader Princess Leia, cocky Han Solo, Chewbacca, and droids C-3PO and R2-D2 are thrown into various stages of capture, betrayal and despair.",
+        "release_year": "1980",
+        "title": "The Empire Strikes Back",
+        "director": "Irvin Kershner"
+    },
+    {
+        "genres": [
+            "Adventure",
+            "Fantasy",
+            "Action"
+        ],
+        "storyline": "Frodo and Sam are trekking to Mordor to destroy the One Ring of Power while Gimli, Legolas and Aragorn search for the orc-captured Merry and Pippin. All along, nefarious wizard Saruman awaits the Fellowship members at the Orthanc Tower in Isengard.",
+        "release_year": "2002",
+        "title": "The Lord of the Rings: The Two Towers",
+        "director": "Peter Jackson"
+    },
+    {
+        "genres": [
+            "Drama",
+            "War"
+        ],
+        "storyline": "The true story of pianist Władysław Szpilman's experiences in Warsaw during the Nazi occupation. When the Jews of the city find themselves forced into a ghetto, Szpilman finds work playing in a café; and when his family is deported in 1942, he stays behind, works for a while as a laborer, and eventually goes into hiding in the ruins of the war-torn city.",
+        "release_year": "2002",
+        "title": "The Pianist",
+        "director": "Roman Polanski"
+    },
+    {
+        "genres": [
+            "Drama",
+            "Music"
+        ],
+        "storyline": "Under the direction of a ruthless instructor, a talented young drummer begins to pursue perfection at any cost, even his humanity.",
+        "release_year": "2014",
+        "title": "Whiplash",
+        "director": "Damien Chazelle"
+    },
+    {
+        "genres": [
+            "Action",
+            "Drama",
+            "History"
+        ],
+        "storyline": "Down-on-his-luck veteran Tsugumo Hanshirō enters the courtyard of the prosperous House of Iyi. Unemployed, and with no family, he hopes to find a place to commit seppuku—and a worthy second to deliver the coup de grâce in his suicide ritual. The senior counselor for the Iyi clan questions the ronin’s resolve and integrity, suspecting Hanshirō of seeking charity rather than an honorable end. What follows is a pair of interlocking stories which lay bare the difference between honor and respect, and promises to examine the legendary foundations of the Samurai code.",
+        "release_year": "1962",
+        "title": "Harakiri",
+        "director": "Masaki Kobayashi"
+    },
+    {
+        "genres": [
+            "Crime",
+            "Mystery",
+            "Thriller"
+        ],
+        "storyline": "Two homicide detectives are on a desperate hunt for a serial killer whose crimes are based on the \"seven deadly sins\" in this dark and haunting film that takes viewers from the tortured remains of one victim to the next. The seasoned Det. Sommerset researches each sin in an effort to get inside the killer's mind, while his novice partner, Mills, scoffs at his efforts to unravel the case.",
+        "release_year": "1995",
+        "title": "Se7en",
+        "director": "David Fincher"
+    },
+    {
+        "genres": [
+            "Action",
+            "Science Fiction",
+            "Adventure"
+        ],
+        "storyline": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
+        "release_year": "2010",
+        "title": "Inception",
+        "director": "Christopher Nolan"
+    },
+    {
+        "genres": [
+            "Thriller",
+            "Mystery"
+        ],
+        "storyline": "A wheelchair-bound photographer spies on his neighbors from his apartment window and becomes convinced one of them has committed murder.",
+        "release_year": "1954",
+        "title": "Rear Window",
+        "director": "Alfred Hitchcock"
+    },
+    {
+        "genres": [
+            "Drama"
+        ],
+        "storyline": "Derek Vineyard is paroled after serving 3 years in prison for killing two African-American men. Through his brother, Danny Vineyard's narration, we learn that before going to prison, Derek was a skinhead and the leader of a violent white supremacist gang that committed acts of racial crime throughout L.A. and his actions greatly influenced Danny. Reformed and fresh out of prison, Derek severs contact with the gang and becomes determined to keep Danny from going down the same violent path as he did.",
+        "release_year": "1998",
+        "title": "American History X",
+        "director": "Tony Kaye"
+    },
+    {
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "storyline": "Clarice Starling is a top student at the FBI's training academy.  Jack Crawford wants Clarice to interview Dr. Hannibal Lecter, a brilliant psychiatrist who is also a violent psychopath, serving life behind bars for various acts of murder and cannibalism.  Crawford believes that Lecter may have insight into a case and that Starling, as an attractive young woman, may be just the bait to draw him out.",
+        "release_year": "1991",
+        "title": "The Silence of the Lambs",
+        "director": "Jonathan Demme"
+    },
+    {
+        "genres": [
+            "Adventure",
+            "Fantasy",
+            "Animation"
+        ],
+        "storyline": "Ashitaka, a prince of the disappearing Emishi people, is cursed by a demonized boar god and must journey to the west to find a cure. Along the way, he encounters San, a young human woman fighting to protect the forest, and Lady Eboshi, who is trying to destroy it. Ashitaka must find a way to bring balance to this conflict.",
+        "release_year": "1997",
+        "title": "Princess Mononoke",
+        "director": "Hayao Miyazaki"
+    },
+    {
+        "genres": [
+            "Comedy",
+            "War"
+        ],
+        "storyline": "Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel's regime.",
+        "release_year": "1940",
+        "title": "The Great Dictator",
+        "director": "Charles Chaplin"
+    },
+    {
+        "genres": [
+            "Drama"
+        ],
+        "storyline": "A hack screenwriter writes a screenplay for a former silent film star who has faded into Hollywood obscurity.",
+        "release_year": "1950",
+        "title": "Sunset Boulevard",
+        "director": "Billy Wilder"
+    },
+    {
+        "genres": [
+            "Drama"
+        ],
+        "storyline": "At an elite, old-fashioned boarding school in New England, a passionate English teacher inspires his students to rebel against convention and seize the potential of every day, courting the disdain of the stern headmaster.",
+        "release_year": "1989",
+        "title": "Dead Poets Society",
+        "director": "Peter Weir"
+    },
+    {
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Science Fiction"
+        ],
+        "storyline": "Eighties teenager Marty McFly is accidentally sent back in time to 1955, inadvertently disrupting his parents' first meeting and attracting his mother's romantic interest. Marty must repair the damage to history by rekindling his parents' romance and - with the help of his eccentric inventor friend Doc Brown - return to 1985.",
+        "release_year": "1985",
+        "title": "Back to the Future",
+        "director": "Robert Zemeckis"
+    },
+    {
+        "genres": [
+            "Crime",
+            "Drama",
+            "Action"
+        ],
+        "storyline": "Léon, the top hit man in New York, has earned a rep as an effective \"cleaner\". But when his next-door neighbors are wiped out by a loose-cannon DEA agent, he becomes the unwilling custodian of 12-year-old Mathilda. Before long, Mathilda's thoughts turn to revenge, and she considers following in Léon's footsteps.",
+        "release_year": "1994",
+        "title": "Léon: The Professional",
+        "director": "Luc Besson"
+    },
+    {
+        "genres": [
+            "Drama",
+            "Western"
+        ],
+        "storyline": "As the railroad builders advance unstoppably through the Arizona desert on their way to the sea, Jill arrives in the small town of Flagstone with the intention of starting a new life.",
+        "release_year": "1968",
+        "title": "Once Upon a Time in the West",
+        "director": "Sergio Leone"
+    }
+]
